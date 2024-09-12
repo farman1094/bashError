@@ -1,0 +1,2 @@
+# bashError
+Error
